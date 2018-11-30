@@ -1,0 +1,8 @@
+#ifndef BITCOIN_MY_VALIDATION_H
+#define BITCOIN_MY_VALIDATION_H
+
+
+void MyValidation();
+
+
+#endif //BITCOIN_MY_VALIDATION_H
